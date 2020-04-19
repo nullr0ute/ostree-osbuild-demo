@@ -602,9 +602,16 @@
             "console=tty0",
             "console=ttyS0",
             "systemd.log_target=console",
-            "systemd.journald.forward_to_console=1"
+            "systemd.journald.forward_to_console=1",
+            "$ignition_firstboot",
+            "ignition.platform.id=qemu",
+            "rd.shell",
+            "rd.break=mount"
           ]
         }
+      },
+      {
+        "name": "org.osbuild.ignition"
       },
       {
         "name": "org.osbuild.grub2",

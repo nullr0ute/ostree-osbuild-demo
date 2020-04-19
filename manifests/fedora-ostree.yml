@@ -16,6 +16,7 @@ packages:
   - xen-libs
   - fedora-repos-ostree
   - polkit
+  - ignition
 packages-x86_64:
   - grub2-efi-ia32
   - grub2-efi-x64
@@ -26,10 +27,5 @@ packages-x86_64:
 packages-exclude:
   - dracut-config-rescue
   - PackageKit
-units:
-  - cloud-config
-  - cloud-final
-  - cloud-init
-  - cloud-init-local
 etc-group-members:
   - wheel

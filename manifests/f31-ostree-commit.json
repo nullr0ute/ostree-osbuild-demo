@@ -20,6 +20,7 @@
         "sha256:20ef955e5f735233a425725b9af41d960b5602dfb0ae812ae720e37c9bf8a292": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/basesystem-11-8.fc31.noarch.rpm",
         "sha256:09f5522e833a03fd66e7ea9368331b7f316f494db26decda59cbacb6ea4185b3": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/bash-5.0.7-3.fc31.x86_64.rpm",
         "sha256:2c58791f5b7f7c3489f28a20d1a34849aeadbeed68e306e349350b5c455779b1": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/brotli-1.0.7-6.fc31.x86_64.rpm",
+        "sha256:273690ea841cbb992d246f9c75888c9772e8afffc60fbca27622fa6a07b4b62a": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/btrfs-progs-5.2.1-1.fc31.x86_64.rpm",
         "sha256:f3b1f254657dc34ac1a92d6fc86da26f6935d5469d77215a18e95a60fedf5aa5": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/bubblewrap-0.3.3-3.fc31.x86_64.rpm",
         "sha256:d334fe6e150349148b9cb77e32523029311ce8cb10d222d11c951b66637bbd3a": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/bzip2-1.0.8-1.fc31.x86_64.rpm",
         "sha256:ac05bd748e0fa500220f46ed02c4a4a2117dfa88dec83ffca86af21546eb32d7": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/b/bzip2-libs-1.0.8-1.fc31.x86_64.rpm",
@@ -59,8 +60,10 @@
         "sha256:048e8325a759219a66788676c167a784534c8b1f81b1ae13f8617f7b7c5b79cd": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dnf-4.2.9-5.fc31.noarch.rpm",
         "sha256:02301d2744b96674019251b6c8d2199790960e4cc79d90fbdb946a298fc2c4ea": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dnf-data-4.2.9-5.fc31.noarch.rpm",
         "sha256:16ea1e6ba5bbf16cb6a052b2326d25b9980971fd72c46e7d701e09f267d33063": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dnf-plugins-core-4.0.9-1.fc31.noarch.rpm",
+        "sha256:b110ee65fa2dee77585ec77cab592cba2434d579f8afbed4d2a908ad1addccfc": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dosfstools-4.1-9.fc31.x86_64.rpm",
         "sha256:ef55145ef56d4d63c0085d04e856943d5c61c11ba10c70a383d8f67b74818159": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dracut-049-27.git20181204.fc31.1.x86_64.rpm",
         "sha256:34a9986b8b61812ceaf32ce3b189bd0b2cb4adaaf47d76ec1f50ce07c45b5675": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dracut-config-generic-049-27.git20181204.fc31.1.x86_64.rpm",
+        "sha256:eb5fadf9f18fd070deae2824d856dbed3d5abc34ea63cf0c8847de40182a25e4": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dracut-network-049-27.git20181204.fc31.1.x86_64.rpm",
         "sha256:71c02de0e50e07999d0f4f40bce06ca4904e0ab786220bd7ffebc4a60a4d3cd7": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/e/e2fsprogs-1.45.3-1.fc31.x86_64.rpm",
         "sha256:de678f5a55f5ff690f3587adcbc7a1b7d477fefe85ffd5d91fc1447ddba63c89": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/e/e2fsprogs-libs-1.45.3-1.fc31.x86_64.rpm",
         "sha256:cab1b0c3bdae2a07e15b90b414f50753c759e325b6f0cddfa27895748c77f082": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/e/ebtables-legacy-2.0.10-37.fc31.x86_64.rpm",
@@ -95,6 +98,7 @@
         "sha256:34a182fca42c4cac66aa6186603509b90659076d62147ac735def1adb72883dd": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gcr-3.33.4-1.fc31.x86_64.rpm",
         "sha256:7c03db291cdd867b7ec47843c3ec490e65eb20ee4e808c8a17be324a1b48c1bc": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gcr-base-3.33.4-1.fc31.x86_64.rpm",
         "sha256:fba574e749c579b5430887d37f513f1eb622a4ed66aec7e103230f1b5296ca84": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gdbm-libs-1.18.1-1.fc31.x86_64.rpm",
+        "sha256:b50d69092f8c13a4886a438affdf90f26bc82eb6a179738107b6c7233a60fad9": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gdisk-1.0.4-5.fc31.x86_64.rpm",
         "sha256:bb9333c64743a0511ba64d903e1926a73899e03d8cf4f07b2dbfdfa2880c38eb": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gdk-pixbuf2-2.40.0-1.fc31.x86_64.rpm",
         "sha256:d549f399d31a17e8d00107f479a6465373badb1e83c12dffb4c0d957f489447c": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/gdk-pixbuf2-modules-2.40.0-1.fc31.x86_64.rpm",
         "sha256:d25bc4ae557b402ec151cbf70cb8f63e985c456ed7f0347505cf6cf171d15565": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/geolite2-city-20190806-1.fc31.noarch.rpm",
@@ -135,6 +139,7 @@
         "sha256:2d37070a684785bc9dc72ff008ede02166816609242dbf98f96c80514d9c0850": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/h/hicolor-icon-theme-0.17-7.fc31.noarch.rpm",
         "sha256:a188b5c697b734d4ed7d8f954b6875b9d401dc2a3c10bfd20d03db131ca73ab5": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/h/hostname-3.20-9.fc31.x86_64.rpm",
         "sha256:dae094845eb669c1e4c6b9719a730ab71561c8bc8e870d30c9ac9f6437fd2d50": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/h/hwdata-0.328-1.fc31.noarch.rpm",
+        "sha256:920817c2b43ee206698903187b348566c7b44e90dbd4afa7f4f4b258a6a0e2a3": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/i/ignition-2.0.1-3.gite75cf24.fc31.x86_64.rpm",
         "sha256:efcf9db40d3554c93cd0ec593717f68f2bfeb68c2b102cb9a4650933d6783ac6": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/i/ima-evm-utils-1.2.1-2.fc31.x86_64.rpm",
         "sha256:2af3bbdab1f387ae7af2534846e33ab6d2ca7777399c64191f95699d576cd4ba": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/i/initscripts-10.02-2.fc31.x86_64.rpm",
         "sha256:c8e0a36410ebbd9db0a10e1fbecbae8f6288b9be86752d2e91725d5dd98ec65d": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/i/ipcalc-0.2.5-3.fc31.x86_64.rpm",
@@ -290,6 +295,7 @@
         "sha256:a41579023e1db3dec06679ebc7788ece92686ea2a23c78dd749c98ddbc82d419": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/l/lmdb-libs-0.9.23-3.fc31.x86_64.rpm",
         "sha256:cba15cfd9912ae8afce2f4a0b22036f68c6c313147106a42ebb79b6f9d1b3e1a": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/l/lua-libs-5.3.5-6.fc31.x86_64.rpm",
         "sha256:9f3414d124857fd37b22714d2ffadaa35a00a7126e5d0d6e25bbe089afc87b39": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/l/lz4-libs-1.9.1-1.fc31.x86_64.rpm",
+        "sha256:9f28a02862ceb8772a4d1fe9b6d658eba5e19ccdc669212285fa8c4128f0baa8": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/l/lzo-2.08-16.fc31.x86_64.rpm",
         "sha256:764699ea124f85a7afcf65a2f138e3821770f8aa1ef134e1813e2b04477f0b74": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/m/man-db-2.8.4-5.fc31.x86_64.rpm",
         "sha256:45c75e4ad6f3925044737c6f602a9deaf3b9ea9a5be6386ba4ba225e58634b83": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/m/mkpasswd-5.5.2-1.fc31.x86_64.rpm",
         "sha256:7689b8a4e8999e1ae8fc5019ae9700ce084f550f37ae59ca0a0bcaef5ccc1059": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/m/mokutil-0.3.0-11.fc30.x86_64.rpm",
@@ -453,7 +459,6 @@
         "sha256:752016cb8a601956579cf9b22e4c1d6cdc225307f925f1def3c0cd550452a488": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/y/yum-4.2.9-5.fc31.noarch.rpm",
         "sha256:db11cec438594c2f52b19028dd9ee4fe4013fe4af583b8202c08c3d072e8021c": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/z/zchunk-libs-1.1.2-3.fc31.x86_64.rpm",
         "sha256:491c387e645800cf771c0581f9a4dd11722ae54a5e119b451b0c1ea3afd317d9": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/z/zlib-1.2.11-19.fc31.x86_64.rpm",
-        "sha256:b110ee65fa2dee77585ec77cab592cba2434d579f8afbed4d2a908ad1addccfc": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/d/dosfstools-4.1-9.fc31.x86_64.rpm",
         "sha256:40eee4e4234c781277a202aa0e834c2be8afc28a3e4012b07d6c24058b0f4add": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/f/fedora-release-31-1.noarch.rpm",
         "sha256:f67d5cc67029c6c38185f94b72aaa9034a49f5c4f166066c8268b41e1b18a202": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/g/glibc-all-langpacks-2.30-5.fc31.x86_64.rpm",
         "sha256:ee6596a5010c2b4a038861828ecca240aa03c592dacd83c3a70d44cb8ee50408": "https://dl.fedoraproject.org/pub/fedora/linux/releases/31/Everything/x86_64/os/Packages/l/libaio-0.3.111-6.fc31.x86_64.rpm",
@@ -781,6 +786,7 @@
             "sha256:20ef955e5f735233a425725b9af41d960b5602dfb0ae812ae720e37c9bf8a292",
             "sha256:09f5522e833a03fd66e7ea9368331b7f316f494db26decda59cbacb6ea4185b3",
             "sha256:2c58791f5b7f7c3489f28a20d1a34849aeadbeed68e306e349350b5c455779b1",
+            "sha256:273690ea841cbb992d246f9c75888c9772e8afffc60fbca27622fa6a07b4b62a",
             "sha256:f3b1f254657dc34ac1a92d6fc86da26f6935d5469d77215a18e95a60fedf5aa5",
             "sha256:d334fe6e150349148b9cb77e32523029311ce8cb10d222d11c951b66637bbd3a",
             "sha256:ac05bd748e0fa500220f46ed02c4a4a2117dfa88dec83ffca86af21546eb32d7",
@@ -820,8 +826,10 @@
             "sha256:048e8325a759219a66788676c167a784534c8b1f81b1ae13f8617f7b7c5b79cd",
             "sha256:02301d2744b96674019251b6c8d2199790960e4cc79d90fbdb946a298fc2c4ea",
             "sha256:16ea1e6ba5bbf16cb6a052b2326d25b9980971fd72c46e7d701e09f267d33063",
+            "sha256:b110ee65fa2dee77585ec77cab592cba2434d579f8afbed4d2a908ad1addccfc",
             "sha256:ef55145ef56d4d63c0085d04e856943d5c61c11ba10c70a383d8f67b74818159",
             "sha256:34a9986b8b61812ceaf32ce3b189bd0b2cb4adaaf47d76ec1f50ce07c45b5675",
+            "sha256:eb5fadf9f18fd070deae2824d856dbed3d5abc34ea63cf0c8847de40182a25e4",
             "sha256:71c02de0e50e07999d0f4f40bce06ca4904e0ab786220bd7ffebc4a60a4d3cd7",
             "sha256:de678f5a55f5ff690f3587adcbc7a1b7d477fefe85ffd5d91fc1447ddba63c89",
             "sha256:cab1b0c3bdae2a07e15b90b414f50753c759e325b6f0cddfa27895748c77f082",
@@ -856,6 +864,7 @@
             "sha256:34a182fca42c4cac66aa6186603509b90659076d62147ac735def1adb72883dd",
             "sha256:7c03db291cdd867b7ec47843c3ec490e65eb20ee4e808c8a17be324a1b48c1bc",
             "sha256:fba574e749c579b5430887d37f513f1eb622a4ed66aec7e103230f1b5296ca84",
+            "sha256:b50d69092f8c13a4886a438affdf90f26bc82eb6a179738107b6c7233a60fad9",
             "sha256:bb9333c64743a0511ba64d903e1926a73899e03d8cf4f07b2dbfdfa2880c38eb",
             "sha256:d549f399d31a17e8d00107f479a6465373badb1e83c12dffb4c0d957f489447c",
             "sha256:d25bc4ae557b402ec151cbf70cb8f63e985c456ed7f0347505cf6cf171d15565",
@@ -896,6 +905,7 @@
             "sha256:2d37070a684785bc9dc72ff008ede02166816609242dbf98f96c80514d9c0850",
             "sha256:a188b5c697b734d4ed7d8f954b6875b9d401dc2a3c10bfd20d03db131ca73ab5",
             "sha256:dae094845eb669c1e4c6b9719a730ab71561c8bc8e870d30c9ac9f6437fd2d50",
+            "sha256:920817c2b43ee206698903187b348566c7b44e90dbd4afa7f4f4b258a6a0e2a3",
             "sha256:efcf9db40d3554c93cd0ec593717f68f2bfeb68c2b102cb9a4650933d6783ac6",
             "sha256:2af3bbdab1f387ae7af2534846e33ab6d2ca7777399c64191f95699d576cd4ba",
             "sha256:c8e0a36410ebbd9db0a10e1fbecbae8f6288b9be86752d2e91725d5dd98ec65d",
@@ -1051,6 +1061,7 @@
             "sha256:a41579023e1db3dec06679ebc7788ece92686ea2a23c78dd749c98ddbc82d419",
             "sha256:cba15cfd9912ae8afce2f4a0b22036f68c6c313147106a42ebb79b6f9d1b3e1a",
             "sha256:9f3414d124857fd37b22714d2ffadaa35a00a7126e5d0d6e25bbe089afc87b39",
+            "sha256:9f28a02862ceb8772a4d1fe9b6d658eba5e19ccdc669212285fa8c4128f0baa8",
             "sha256:764699ea124f85a7afcf65a2f138e3821770f8aa1ef134e1813e2b04477f0b74",
             "sha256:45c75e4ad6f3925044737c6f602a9deaf3b9ea9a5be6386ba4ba225e58634b83",
             "sha256:7689b8a4e8999e1ae8fc5019ae9700ce084f550f37ae59ca0a0bcaef5ccc1059",
@@ -1219,14 +1230,7 @@
       },
       {
         "name": "org.osbuild.systemd",
-        "options": {
-          "enabled_services": [
-            "cloud-config",
-            "cloud-final",
-            "cloud-init",
-            "cloud-init-local"
-          ]
-        }
+        "options": {}
       },
       {
         "name": "org.osbuild.locale",
@@ -1274,6 +1278,11 @@
         "options": {
           "etc_group_members": [
             "wheel"
+          ],
+          "initramfs-args": [
+            "--no-hostonly",
+            "--add",
+            "ignition"
           ]
         }
       }
