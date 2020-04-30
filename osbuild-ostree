@@ -143,11 +143,13 @@ def boot(env):
             f"-cdrom", f"{builddir}/cloudinit.iso",
             "-device", f"virtio-net-pci,netdev=n0,mac={macstr}",
             "-netdev", "user,id=n0,net=10.0.2.0/24," + ",".join(fwds),
+            f"-fw_cfg", "name=opt/com.coreos/config,file=default.ign",
             path]
 
     if not env.args.persist:
         argv.append("-snapshot")
 
+    print(" ".join(argv))
     r = subprocess.run(argv, check=False)
     return r.returncode
 

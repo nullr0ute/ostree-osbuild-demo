@@ -1,6 +1,7 @@
 ref: fedora/x86_64/osbuild-demo
 repos:
   - fedora
+  - fedora-updates
 packages:
   - "@Fedora Cloud Server"
   - chrony
